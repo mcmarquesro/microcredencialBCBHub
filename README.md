@@ -38,7 +38,7 @@ Estas dependencias se instalan automáticamente mediante uv.
 git clone https://github.com/mcmarquesro/microcredencialBCBHub.git
 cd microcredencialBCBHub
 
-
+## 3. Comprobaciones
 
 ### 🔹 Comprobar Nextflow
 nextflow -version
