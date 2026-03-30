@@ -1,0 +1,47 @@
+#Este es el script main.py que se encarga de:
+#1) Extraer filas.
+#2) Descartar las filas que comienzan por @
+#3) Extraer la columna de MAPQ
+#4) Contar las lecturas con MAPQ==60
+#5) Calcular el %
+#6) Dar un output con formato según rich
+
+#!/usr/bin/env python3
+import sys
+
+import rich
+console = rich.console.Console() #Objeto de rich para user colores
+
+def main(sam_path):
+
+	#Defino variables
+	sam_path = sys.argv[1]
+
+	total_read_counts = 0
+	quality_read_counts = 0
+
+	#Abro el fichero
+	with open(sam_path, "r") as sam:
+
+		#Extraigo líneas y me quedo con las que contienen lecturas
+		for line in sam:
+			line = line.strip()
+
+			if line.startswith("@"):
+				continue
+			total_read_counts +=1
+
+		#Extraigo columnas y leo la columna 5 (MAPQ)
+			column = line.split("\t")
+			values_MAPQ = int(column[4])
+
+			if values_MAPQ == 60:
+				quality_read_counts +=1
+
+
+
+	# Output
+	print ("Total de lecturas alineadas: ", total_read_counts)
+	print ("Lecturas con MAPQ = 60: ", quality_read_counts)
+	print ("Porcentaje: ", percentaje_quality_counts)
+

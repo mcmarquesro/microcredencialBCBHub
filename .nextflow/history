@@ -1,0 +1,17 @@
+2026-03-30 12:10:11	-	jovial_galileo	-	749cf3b8a38740ea70073a7eec6ba41c	8db8d013-c2db-47ab-a619-6a89cb4e1d71	nextflow run main.nf --sam ../WT.sam
+2026-03-30 12:15:25	-	adoring_torvalds	-	b55f7d1f8c2ed3cc8d85895911b01372	45f3ddd8-d980-47fe-873b-a5e077f4ca54	nextflow run main.nf --sam ../WT.sam
+2026-03-30 12:22:49	-	stoic_lattes	-	dc2351066d0c148336441e135a188057	5eaade28-9d56-4a8c-946b-0f7ea1966fa9	nextflow run main.nf --sam ../WT.sam
+2026-03-30 12:26:41	-	happy_pasteur	-	2402ca9efe358d2bab8838c97a30470a	fcd4a5e5-320f-415e-873c-d453ef438dc6	nextflow run main.nf --sam ../WT.sam
+2026-03-30 12:31:25	-	nauseous_mercator	-	97321544492d6c749d061af3f6ef1418	372f81ee-3604-4094-8b80-44f0182bac54	nextflow run main.nf --sam ../WT.sam
+2026-03-30 12:56:56	-	cheesy_leakey	-	97321544492d6c749d061af3f6ef1418	d8a36072-7fd2-4e22-a0e1-5843ef9bdadc	nextflow run main.nf ../WT.sam
+2026-03-30 12:58:08	-	gigantic_nobel	-	97321544492d6c749d061af3f6ef1418	6feb4038-45ce-4155-8f14-ba5069d7369a	nextflow run main.nf --sam ../WT.sam
+2026-03-30 13:11:08	-	ecstatic_galileo	-	f8879e5ac921344b66cd712abf326f46	1f3d1795-184b-4685-b9ea-4167da83a182	nextflow run main.nf --sam ../WT.sam
+2026-03-30 13:12:40	-	cheesy_becquerel	-	4382964a54b6867e787e6227729aecfd	ac854229-b8b5-443c-9d37-e801762745fb	nextflow run main.nf --sam ../WT.sam
+2026-03-30 13:13:54	-	nauseous_bohr	-	1a07b9fb6beefcf8aa85b5a7333c945f	14bd159c-554e-4b4e-bd3f-d3636a08c8e0	nextflow run main.nf --sam ../WT.sam
+2026-03-30 13:20:36	-	golden_hawking	-	6b59a6e6732093888efcff4f44faf979	2bfa7306-a48f-4a16-87b6-7e5bac72495d	nextflow run main.nf --sam ../WT.sam
+2026-03-30 13:38:19	-	compassionate_keller	-	412f79d77b35d62f64898b152a64e0b2	f68b982c-14d4-48d6-a619-eb83560a422b	nextflow run main.nf --sam ../WT.sam
+2026-03-30 13:39:09	2.5s	special_wegener	ERR	286c8fc43da5dc3e0d9ef81817499f3d	8419b36f-c90a-43d9-8be1-5bfe5d9f0a74	nextflow run main.nf --sam ../WT.sam
+2026-03-30 14:02:28	-	prickly_knuth	-	de345fffe03b3000c9cd87310fb35f93	5de0a4df-b28a-4b0e-84f0-420bea7769df	nextflow run main.nf --sam ../WT.sam
+2026-03-30 14:06:23	-	festering_northcutt	-	72a7d050f76c7615b3ff387100832f28	07a7bbc5-d0a4-4b86-86e9-a143d0578a1e	nextflow run main.nf --sam ../WT.sam
+2026-03-30 14:24:55	-	focused_laplace	-	ce31ff538685a8f4920feb8f73269c49	910cff39-060a-4224-92b7-a8c6dc108311	nextflow run main.nf --sam ../WT.sam
+2026-03-30 14:25:44	44.3s	gigantic_dubinsky	OK	564418718b1b56aab4b5141b2d126b85	36288303-fbc1-4006-850b-0da2ceeee6cc	nextflow run main.nf --sam ../WT.sam
